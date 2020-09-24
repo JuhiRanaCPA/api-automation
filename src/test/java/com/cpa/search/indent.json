@@ -1,0 +1,26 @@
+{
+  "description": "New preNegotiated Project Name",
+  "rate": 200,
+  "hours": 100,
+  "budget": 1000,
+  "currency": "USD",
+  "contactCode": "C103",
+  "bwfProjectId": "",
+  "noDocumentCopyrightFees": false,
+  "noDocumentServiceFees": false,
+  "active": true,
+  "deliveryOption": "standard",
+  "ownedBy": "4452647f-1356-406d-ab02-7ecf12ccb671",
+  "organizationViews": [
+    {
+      "id": "3ded83a2-78b3-442b-afda-43b0a2c67544",
+      "name": "CPA Global"
+    },
+    {
+      "id": "14345168-e82e-4164-b654-e4b0845ea000",
+      "name": "IPC Dev - Goodman & Co."
+    }
+  ],
+  "internalDescription": "New preNegotiated Project Description",
+  "originatingOrderTrackCompanyCode": ""
+}

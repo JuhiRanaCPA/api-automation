@@ -1,0 +1,11 @@
+/.idea/
+/.metadata/
+/.settings/
+**/logs/
+/test-output/
+/target/
+*.iml
+debug.log
+Performance Report.xlsx
+Reports/
+*.log
